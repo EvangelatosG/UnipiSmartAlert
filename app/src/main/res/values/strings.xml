@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="changeLanguage">CHANGE LANGUAGE</string>
+    <string name="sosButton">SOS</string>
+    <string name="fallDetectionTextView">Fall detection!</string>
+    <string name="abortButton">ABORT</string>
+    <string name="statisticsText">Get statistics for:</string>
+    <string name="typeOfEmergency">Type of emergency</string>
+    <string name="typeOfUser">User</string>
+    <string name="abortToastMessage">Abort button clicked!</string>
+    <string name="smsSendToastMessage">SMS sent!</string>
+    <string name="smsNotSendToastMessage">SMS failed, please try again.</string>
+    <string name="gyroscopeToastMessage">Gyroscope not supported!</string>
+    <string name="earthquakeDetectedToastMessage">Earthquake detected!</string>
+    <string name="sosToastMessage1">"I am at location </string>
+    <string name="sosToastMessage2">" and I need help.</string>
+</resources>

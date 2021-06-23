@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="changeLanguage">SPRACHE ÄNDERN</string>
+    <string name="sosButton">SOS</string>
+    <string name="fallDetectionTextView">Fall Erkennung!</string>
+    <string name="abortButton">ABBRECHEN</string>
+    <string name="statisticsText">Bekommen Statistiken für:</string>
+    <string name="typeOfEmergency">Art des Notfalls</string>
+    <string name="typeOfUser">Benutzer</string>
+    <string name="abortToastMessage">Abbreechen Knopf geklickt!</string>
+    <string name="smsSendToastMessage">SMS gesendet!</string>
+    <string name="smsNotSendToastMessage">SMS fehlgeschlagen, bitte versuchen Sie es erneut.</string>
+    <string name="gyroscopeToastMessage">Gyroskop wird nicht unterstützt!</string>
+    <string name="earthquakeDetectedToastMessage">Earthquake erkannt!</string>
+    <string name="sosToastMessage1">"Ich bin am Standort </string>
+    <string name="sosToastMessage2">" und ich brauche Hilfe.</string>
+</resources>

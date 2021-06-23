@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiSmartAlert</string>
+    <string name="changeLanguage">ΑΛΛΑΓΗ ΓΛΩΣΣΑΣ</string>
+    <string name="sosButton">SOS</string>
+    <string name="fallDetectionTextView">Εντοπισμός πτώσης!</string>
+    <string name="abortButton">ΑΚΥΡΩΣΗ</string>
+    <string name="statisticsText">Λάβετε στατιστικά για:</string>
+    <string name="typeOfEmergency">ΕΙΔΟΣ ΚΙΝΔΥΝΟΥ</string>
+    <string name="typeOfUser">ΧΡΗΣΤΗΣ</string>
+    <string name="abortToastMessage">Πατήθηκε το κουμπί ακύρωσης!</string>
+    <string name="smsSendToastMessage">SMS εστάλη!</string>
+    <string name="smsNotSendToastMessage">Η αποστολή SMS απέτυχε, παρακαλώ προσπαθήστε ξανά.</string>
+    <string name="gyroscopeToastMessage">Το γυροσκόπιο δεν υποστηρίζεται!</string>
+    <string name="earthquakeDetectedToastMessage">Εντοπισμός σεισμού!</string>
+    <string name="sosToastMessage1">"Βρίσκομαι στην τοποθεσία </string>
+    <string name="sosToastMessage2">" και χρειάζομαι βοήθεια.</string>
+</resources>
